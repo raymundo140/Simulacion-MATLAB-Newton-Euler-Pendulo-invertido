@@ -12,16 +12,6 @@ El código realiza lo siguiente:
 - Resuelve las ecuaciones de movimiento mediante **integración numérica (método de Euler).**
 - Grafica la evolución de la **posición y velocidad** del carrito y el péndulo.
 
-## 📂 Estructura del repositorio
-```
-📁 pendulo-invertido-matlab
-│── 📜 README.md
-│── 📜 pendulo_invertido.m   # Código principal en MATLAB
-│── 📜 control_PD.m          # Implementación del controlador PD
-│── 📜 graficas.m            # Script para generar gráficos
-└── 📁 img                   # Carpeta con imágenes de las simulaciones
-```
-
 ## 🚀 Instalación y Ejecución
 ### 1️⃣ Requisitos
 - MATLAB (R2020a o superior recomendado)
