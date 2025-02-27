@@ -35,14 +35,10 @@ Tras la ejecución del código, se generarán las siguientes gráficas:
 - **Evolución del ángulo y velocidad angular del péndulo**
 - **Evolución de la fuerza de control aplicada**
 
-## 🛠️ Mejoras futuras
-- Implementar un **controlador PID** en lugar de PD para mejorar la respuesta del sistema.
-- Agregar una interfaz gráfica en MATLAB.
-- Extender el código para simulación en **Simulink**.
 
 ## 📜 Licencia
 Este proyecto es de código abierto bajo la **Licencia MIT**.
 
 ---
-📌 **Autores:** [Tu Nombre] - [Tu Usuario de GitHub]  
-📌 **Repositorio:** [GitHub Repo](https://github.com/tu-usuario/pendulo-invertido-matlab)
+**Autores:** Raymundo - raymundo140 
+
